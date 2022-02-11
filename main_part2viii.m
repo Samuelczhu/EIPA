@@ -1,7 +1,8 @@
-% This file implement the simulation for ELEC 4700 PA5 
+% This file implement the simulation for ELEC 4700 PA5 part 2 viii
+% Change nx and ny so that they are not equal
 
 % Define dimension
-nx = 50;  % number of element in the x direction
+nx = 10;  % number of element in the x direction
 ny = 50;  % number of elemnent in the y direction
 numSol = 9;  % Number of eigenvectors solution
 
